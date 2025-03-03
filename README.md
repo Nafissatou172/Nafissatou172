@@ -12,7 +12,7 @@
 
 <h3 align="left">🚩Socials</h3>
 <p align="left">
-<a href="<a href="[https://linkedin.com/in/nafissatou mouhamed sow](https://www.linkedin.com/in/nafissatou-m-sow-64463730a)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou mouhamed sow" height="30" width="40" /></a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou mouhamed sow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/Nafissatou M. Sow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou mouhamed sow" height="30" width="40" /></a>" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou mouhamed sow" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
