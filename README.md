@@ -7,12 +7,12 @@
 - 📫 Tools : Jupiter notebook , google collab , ollama , deepseek , gpt ...  <br/>
 - ⚡ Fun fact: I'm a liverpool fan <br/>
 </P>
-<h1> 🚩Socials </h1>
-<a href="https://www.linkedin.com/in/nafissatou-m-sow-64463730a"> Linkedin Page </a>
+<!-- <h1> 🚩Socials </h1>
+<a href="https://www.linkedin.com/in/nafissatou-m-sow-64463730a"> Linkedin Page </a> -->
 
-<h3 align="left">Connect with me:</h3>
+<h1 align="left">Connect with me:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/nafissatou m. sow" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou m. sow" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nafissatou-m-sow-64463730a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou m. sow" height="30" width="40" /></a>
 </p>
 
 <h1 align="left">Languages and Tools :</h1>
