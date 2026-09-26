@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Nafissatou , Master student in AI <br/>
 - 👀 Coder & AI enthusiast  <br/>
 - 🌱 Web developper and AI integrator  <br/>
-- 💞️ Languages : Python , PHP , JS , Laravel 10, codeigniter 3 & 4 , Jquery ...  <br/>
+- 💞️ Languages : Python , SQL, PHP , JS , Laravel 10, codeigniter 3 & 4 , Jquery ...  <br/>
 - 📫 Tools : Jupiter notebook , google collab , ollama , deepseek , gpt ...  <br/>
 - ⚡ Fun fact: I'm a liverpool fan <br/>
 </P>
