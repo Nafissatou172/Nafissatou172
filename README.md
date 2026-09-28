@@ -1,10 +1,10 @@
  <h1>⭐ABOUT ME ⭐</h1>
 <P>
-- 👋 Hi, I’m Nafissatou , Master student in AI <br/>
-- 👀 Coder & AI enthusiast  <br/>
-- 🌱 Web developper and AI integrator  <br/>
-- 💞️ Languages : Python , SQL, PHP , JS , Laravel 10, codeigniter 3 & 4 , Jquery ...  <br/>
-- 📫 Tools : Jupiter notebook , google collab , ollama , deepseek , gpt ...  <br/>
+-  Hi, I’m Nafissatou , AI and Data Engineer <br/>
+- Coder & AI enthusiast  <br/>
+- Web developper and AI integrator  <br/>
+- Languages : Python , SQL, PHP , JS , Laravel 10, codeigniter 3 & 4 , Jquery ...  <br/>
+- Tools : Jupiter notebook , google collab , ollama , deepseek , gpt ...  <br/>
 - ⚡ Fun fact: I'm a liverpool fan <br/>
 </P>
 <!-- <h1> 🚩Socials </h1>
