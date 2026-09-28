@@ -1,4 +1,4 @@
- <h1>⭐ABOUT ME ⭐</h1>
+ <h1> ABOUT ME </h1>
 <P>
 -  Hi, I’m Nafissatou , AI and Data Engineer <br/>
 - Coder & AI enthusiast  <br/>
@@ -13,7 +13,7 @@
 <h1 align="left"> 🚩 Connect with me:</h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/nafissatou-sow-64463730a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nafissatou m. sow" height="30" width="40" /></a>
- <a href="https://nafissatou172.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/503798/world.svg" alt="nafissatou m. sow" height="30" width="40" /></a>
+<a href="https://nafissatou172.github.io/" target="blank"><img align="center" src="https://www.svgrepo.com/show/503798/world.svg" alt="nafissatou m. sow" height="30" width="40" /></a>
 </p>
 
 <h1 align="left"> 🛠Languages and Tools :</h1>
