@@ -1,6 +1,6 @@
  <h1> ABOUT ME </h1>
 <P>
--  Hi, I’m Nafissatou , AI and Data Engineer <br/>
+-  Hi, I’m Nafissatou , AI and Data Engineer Analyst <br/>
 - Coder & AI enthusiast  <br/>
 - Web developper and AI integrator  <br/>
 - Languages : Python , SQL, PHP , JS , Laravel 10, codeigniter 3 & 4 , Jquery ...  <br/>
